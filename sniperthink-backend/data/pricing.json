@@ -1,0 +1,5 @@
+[
+  {"tier": "Starter", "price": "₹0", "features": ["1 Dashboard", "Basic Alerts"]},
+  {"tier": "Pro", "price": "₹999/month", "features": ["Unlimited Dashboards", "Advanced Alerts", "Priority Support"]},
+  {"tier": "Enterprise", "price": "Contact Us", "features": ["Custom Solutions", "Dedicated Account Manager", "24/7 Support"]}
+]
